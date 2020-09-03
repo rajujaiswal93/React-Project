@@ -1,0 +1,38 @@
+.wrapper{
+    margin: 2% 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-collapse: collapse;
+    border:3px solid #dddd ;
+    width: 80%;
+
+
+}
+.link-btn{
+    flex-direction: column;
+    justify-content: space-around;
+    
+}
+
+
+.link-btn button{
+    background: skyblue;
+    align-items: initial;
+}
+
+.App{
+     text-align:unset;
+   
+    
+     
+}
+body{
+    margin: 1% 5%;
+    
+}
+
+
+
+
+
